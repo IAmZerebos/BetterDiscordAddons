@@ -1,6 +1,6 @@
 /**
  * @name BetterDiscordEssentials
- * @version 2.1.5
+ * @version 2.1.6
  * @authorLink https://twitter.com/IAmZerebos
  * @donate https://paypal.me/ZackRauen
  * @patreon https://patreon.com/Zerebos
